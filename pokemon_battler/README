@@ -1,0 +1,19 @@
+This program is a pokemon battle simulator built through object orientated python 
+HOW TO USE:
+Enter the number of each pokemon on each team into the designated input area 
+
+Output:
+The team that wins 
+
+Example Code:
+Trainer Ash Choose your team as C B S
+Where C is the number of Charmanders
+      B is the number of Bulbasaurs
+      S is the number of Squirtles
+->3 2 1 
+Team Assigned: Ash
+Trainer Grey Choose your team as C B S
+Where C is the number of Charmanders
+      B is the number of Bulbasaurs
+      S is the number of Squirtles
+->1 2 3
